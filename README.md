@@ -16,17 +16,5 @@ service.css: Este é o arquivo CSS onde definimos os estilos para criar o efeito
 
 Sinta-se à vontade para experimentar e personalizar o efeito de borda. Você pode ajustar cores, espessuras, sombras e outras propriedades para criar diferentes variações do efeito.
 
-<p><h3>Exemplo de código</h3></p>
-Aqui está um trecho de código do arquivo style.css que demonstra como o efeito de borda pode ser implementado:
-
-css
-.borda-efeito {
-    border: 2px solid #3498db;
-    border-radius: 10px;
-    padding: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-}
-Neste exemplo, estamos aplicando uma borda sólida de cor azul (#3498db) com cantos arredondados, um preenchimento interno de 10px e uma sombra suave ao elemento com a classe borda-efeito.
-
-Conclusão
+<br><br><p><h3>Conclusão</h3></p>
 Esperamos que este projeto simples tenha sido útil para entender como criar um efeito de borda utilizando CSS. Sinta-se à vontade para explorar, modificar e aplicar esse conhecimento em seus próprios projetos! Se tiver alguma dúvida ou sugestão, fique à vontade para abrir uma issue neste repositório.
