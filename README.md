@@ -1,7 +1,7 @@
 <h1>Efeito de Borda com CSS - Projeto Simples</h1>
 Este é um projeto simples de demonstração de como criar um efeito de borda interessante utilizando apenas CSS. O objetivo deste projeto é ajudar iniciantes a entenderem como podem adicionar efeitos visuais a elementos HTML usando estilos CSS básicos.<br>
 <br>
-<b>Pré-requisitos</b>
+<b><h3>Pré-requisitos</h3></b>
 Antes de começar, certifique-se de ter um entendimento básico de HTML e CSS. Você precisará de um editor de código para escrever seu código e um navegador para visualizar os resultados.
 <br><br>
 <b>Como usar este projeto</b>
