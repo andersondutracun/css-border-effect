@@ -4,17 +4,16 @@ Este é um projeto simples de demonstração de como criar um efeito de borda in
 <b><h3>Pré-requisitos</h3></b>
 Antes de começar, certifique-se de ter um entendimento básico de HTML e CSS. Você precisará de um editor de código para escrever seu código e um navegador para visualizar os resultados.
 <br><br>
-<b>Como usar este projeto</b>
+<b><h3>Como usar este projeto</h3></b>
 Clone este repositório para o seu computador ou faça o download dos arquivos compactados.
 Abra o arquivo index.html no seu navegador para ver o efeito de borda em ação.
 Se você quiser explorar e experimentar, abra o arquivo style.css para ver e editar os estilos aplicados ao elemento de efeito de borda.<br><br>
-<p>Estrutura do projeto</p>
+<p><h3>>Estrutura do projeto</p>
 O projeto é bastante simples e consiste em apenas alguns arquivos:
 
 index.html: Este é o arquivo HTML principal que contém a estrutura básica do documento e o elemento ao qual aplicamos o efeito de borda.
-style.css: Este é o arquivo CSS onde definimos os estilos para criar o efeito de borda.
-images/ (diretório): Um diretório opcional onde você pode armazenar imagens relacionadas ao projeto, se necessário.
-Personalização
+service.css: Este é o arquivo CSS onde definimos os estilos para criar o efeito de borda.
+
 Sinta-se à vontade para experimentar e personalizar o efeito de borda. Você pode ajustar cores, espessuras, sombras e outras propriedades para criar diferentes variações do efeito.
 
 Exemplo de código
