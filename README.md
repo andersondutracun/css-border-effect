@@ -8,7 +8,7 @@ Antes de começar, certifique-se de ter um entendimento básico de HTML e CSS. V
 Clone este repositório para o seu computador ou faça o download dos arquivos compactados.
 Abra o arquivo index.html no seu navegador para ver o efeito de borda em ação.
 Se você quiser explorar e experimentar, abra o arquivo style.css para ver e editar os estilos aplicados ao elemento de efeito de borda.<br><br>
-<p><h3>>Estrutura do projeto</p>
+<p><h3>Estrutura do projeto</p></h3>
 O projeto é bastante simples e consiste em apenas alguns arquivos:
 
 index.html: Este é o arquivo HTML principal que contém a estrutura básica do documento e o elemento ao qual aplicamos o efeito de borda.
@@ -16,7 +16,7 @@ service.css: Este é o arquivo CSS onde definimos os estilos para criar o efeito
 
 Sinta-se à vontade para experimentar e personalizar o efeito de borda. Você pode ajustar cores, espessuras, sombras e outras propriedades para criar diferentes variações do efeito.
 
-Exemplo de código
+<p><h3>Exemplo de código</h3></p>
 Aqui está um trecho de código do arquivo style.css que demonstra como o efeito de borda pode ser implementado:
 
 css
